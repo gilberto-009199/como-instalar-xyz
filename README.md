@@ -49,9 +49,10 @@ Repositório com vários tutoriais para instalar várias coisas em vários siste
 
 ### Gerenciadores de pacotes
 
-| Nome       | Linux | MacOS | Windows                                           | FreeBSD |
-|------------|-------|-------|---------------------------------------------------|---------|
-| Chocolatey |       |       | [link](./tutoriais/chocolatey/windows/windows.md) |         |
+| Nome       | Linux                                        | MacOS | Windows                                           | FreeBSD |
+|------------|----------------------------------------------|-------|---------------------------------------------------|---------|
+| Chocolatey |                                              |       | [link](./tutoriais/chocolatey/windows/windows.md) |         |
+| Homebrew   | [link](./tutoriais/homebrew/linux/debian.md) |       |                                                   |         |
 
 <div id='ides'></div>
 
